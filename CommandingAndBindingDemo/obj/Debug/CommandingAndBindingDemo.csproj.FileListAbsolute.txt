@@ -13,3 +13,18 @@ C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindin
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csprojResolveAssemblyReference.cache
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\App.g.cs
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\deardrei\Desktop\prog5-commandandbind-deardrei-master\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache

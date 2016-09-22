@@ -18,13 +18,13 @@ namespace CommandingAndBindingDemo
 
         public bool CanExecute(object parameter)
         {
-            if (viewmodel == null)
+            if(viewmodel == null)
             {
                 return false;
             }
             else
             {
-                return viewmodel.Temperature < 280;
+                return viewmodel.Temperature < 290;
             }
         }
 
